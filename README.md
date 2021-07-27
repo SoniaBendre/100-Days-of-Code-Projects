@@ -2,8 +2,8 @@
 A few of my favorite programming projects that I've completed so far as part of the "100 Days of Code - The Complete Python Pro Bootcamp" by the App Brewery...
 
 Stock Trading News Alert Program:
--Wrote Python code with Requests, Datetime & SMTP to trigger email alert for large changes in specific stock price
 
+-Wrote Python code with Requests, Datetime & SMTP to trigger email alert for large changes in specific stock price
 -Integrated feature to include latest top 3 news pieces about company of stock in email alert
 
 Musical Time Machine:
